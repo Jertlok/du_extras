@@ -8,4 +8,4 @@ $(call inherit-product, vendor/extras/emulator/common.mk)
 # Override product naming for DU
 PRODUCT_NAME := du_emulator
 
-PRODUCT_PACKAGE_OVERLAYS += vendor/extras/emulator/overlay
+DEVICE_PACKAGE_OVERLAYS += vendor/extras/emulator/overlay
