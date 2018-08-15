@@ -2,7 +2,7 @@
 PRODUCT_PACKAGES += \
     WallpaperPicker \
     WeatherClienti \
-#    GoldfishParts
+    GoldfishParts
 
 # Include librsjni explicitly to workaround GMS issue
 PRODUCT_PACKAGES += \
