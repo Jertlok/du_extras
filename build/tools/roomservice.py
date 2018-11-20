@@ -54,7 +54,7 @@ else:
 # gapps
 repo_check = r'vendor/pixelgapps'
 gapps_location = 'vendor/pixelgapps'
-gapps_git = 'https://gitlab.com/spaceman860/android_vendor_pixelgapps'
+gapps_git = 'https://gitlab.com/DirtyUnicorns/android_vendor_pixelgapps'
 gapps_branch = 'p9x'
 
 page = 1
