@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/emulator/du_emulator.mk
+    $(LOCAL_DIR)/emulator/du.mk
